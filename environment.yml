@@ -1,0 +1,11 @@
+name: movies
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - console_shortcut
+  - jupyterlab[version='>=3']
+  - pandas
+  - ipywidgets[version='>=7.6']
+  - jupyter-dash
+prefix: C:\Users\micha\anaconda3\envs\movies
